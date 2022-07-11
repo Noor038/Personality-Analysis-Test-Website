@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon32</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.7272078,3.27279221 L3.27279221,14.7272078 L3.27279221,14.7272078 C2.56984848,15.4301515 2.56984848,16.5698485 3.27279221,17.2727922 L14.7272078,28.7272078 L14.7272078,28.7272078 C15.4301515,29.4301515 16.5698485,29.4301515 17.2727922,28.7272078 L28.7272078,17.2727922 L28.7272078,17.2727922 C29.4301515,16.5698485 29.4301515,15.4301515 28.7272078,14.7272078 L17.2727922,3.27279221 L17.2727922,3.27279221 C16.5698485,2.56984848 15.4301515,2.56984848 14.7272078,3.27279221 Z" id="path-1"></path>
+    </defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Other-Tests" transform="translate(-22.000000, -22.000000)">
+            <g id="Icon-32" transform="translate(20.000000, 20.000000)">
+                <circle id="Green" fill="#537D2B" fill-rule="evenodd" cx="9" cy="9" r="6.5"></circle>
+                <path d="M8.04811825,13.2019542 C11.6379691,13.2019542 14.5481182,10.291805 14.5481182,6.70195417 C14.5481182,3.11210329 11.6379691,0.201954165 8.04811825,0.201954165 C8.04826801,0.201954165 8.04772747,13.2019542 8.04811825,13.2019542 Z" id="Green-Split" fill="#3D5E22" fill-rule="evenodd" transform="translate(11.298046, 6.701954) rotate(-45.000000) translate(-11.298046, -6.701954) "></path>
+                <circle id="Orange" fill="#FF9B00" fill-rule="evenodd" cx="9" cy="23" r="6.5"></circle>
+                <path d="M8.04824187,31.798097 C11.6380927,31.798097 14.5482419,28.8879479 14.5482419,25.298097 C14.5482419,21.7082462 11.6380927,18.798097 8.04824187,18.798097 C8.04839162,18.798097 8.04785109,31.798097 8.04824187,31.798097 Z" id="Orange-Split" fill="#FF6B00" fill-rule="evenodd" transform="translate(11.298169, 25.298097) rotate(45.000000) translate(-11.298169, -25.298097) "></path>
+                <circle id="Blue" fill="#20689E" fill-rule="evenodd" cx="23" cy="9" r="6.5"></circle>
+                <path d="M22.0482419,17.798097 C25.6380927,17.798097 28.5482419,14.8879479 28.5482419,11.298097 C28.5482419,7.70824617 25.6380927,4.79809704 22.0482419,4.79809704 C22.0483916,4.79809704 22.0478511,17.798097 22.0482419,17.798097 Z" id="Blue-Split" fill="#10476D" fill-rule="evenodd" transform="translate(25.298169, 11.298097) rotate(45.000000) translate(-25.298169, -11.298097) "></path>
+                <circle id="Purple" fill="#921995" fill-rule="evenodd" cx="23" cy="23" r="6.5"></circle>
+                <path d="M22.0481182,27.2019542 C25.6379691,27.2019542 28.5481182,24.291805 28.5481182,20.7019542 C28.5481182,17.1121033 25.6379691,14.2019542 22.0481182,14.2019542 C22.048268,14.2019542 22.0477275,27.2019542 22.0481182,27.2019542 Z" id="Purple-Split" fill="#661561" fill-rule="evenodd" transform="translate(25.298046, 20.701954) rotate(-45.000000) translate(-25.298046, -20.701954) "></path>
+                <g id="Path-3">
+                    <use fill-opacity="0.7" fill="#FFFFFF" fill-rule="evenodd" style="mix-blend-mode: overlay;" xlink:href="#path-1"></use>
+                    <use stroke-opacity="0.52" stroke="#000000" stroke-width="0.5" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
